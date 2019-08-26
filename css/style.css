@@ -1,0 +1,32 @@
+/*Change Brnd Font*/
+.navbar-brand{
+	font-family: 'Ubuntu', sans-serif;
+	font-size:2em;
+	font-weight:bold;
+}
+.navbar-nav li a{
+	color: #fff;
+	margin: 20px;
+	font-size:20px;
+}
+
+
+/*make Header Responsive*/
+.back-image{
+	background-size:cover;
+	background-position: center  center;
+	background-repeat: no-repeat;
+	min-height: 70vh;
+	border-radius:0px;
+	margin-top: 50px;
+}
+body{
+/*	font-family: 'Ubuntu', sans-serif;*/
+}
+/* Change link Color*/
+a{
+	color: #DC3545;
+}
+a:hover{
+color: #E994A2 ;	
+}
